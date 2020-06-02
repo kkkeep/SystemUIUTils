@@ -1,0 +1,3 @@
+rootProject.name='SystemUiUitils'
+include ':app'
+include ':libsystemui'
